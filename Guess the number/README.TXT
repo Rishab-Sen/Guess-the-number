@@ -5,9 +5,9 @@ all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE:Guess the project
-PURPOSE OF PROJECT:Toguess the number and find the score of the user
+PURPOSE OF PROJECT:To guess the number and find the score of the user
 VERSION or DATE:
 HOW TO START THIS PROJECT:
 AUTHORS:
 USER INSTRUCTIONS:
-The computer will generate a number and you have to find what will be the guessed number
+The computer will generate a number and you have to find what will be the guessed number.This has a contribution by shahzad uncle also.
